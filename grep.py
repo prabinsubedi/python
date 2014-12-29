@@ -8,8 +8,8 @@ if s2.endswith('.gz'):
 	for line in fg:
 		if s in line:
 			print s
-
 	fg.close()
+
 else:
 	f = open (s2,'rb')
 	for line in f:
