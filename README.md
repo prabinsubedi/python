@@ -1,4 +1,4 @@
 python
 ======
 
-Trainig
+Training 
